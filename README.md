@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Update my readme
-=======
-My first readme
->>>>>>> update_script
+My first readme made some changes
+
+
